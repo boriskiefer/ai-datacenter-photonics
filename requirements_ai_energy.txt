@@ -1,0 +1,10 @@
+# Core scientific stack — all standard, no custom dependencies
+numpy>=1.24
+matplotlib>=3.7
+
+# Standard library only beyond the above:
+# csv, dataclasses, pathlib, typing — all built into Python 3.7+
+
+# Optional: run as Jupyter notebook instead of plain Python script
+# jupyter>=1.0
+# jupyterlab>=4.0
